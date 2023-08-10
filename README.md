@@ -5,3 +5,4 @@ En este repositorio se podrán los códigos vistos en clase.
     - 1 de agosto: Ejemplos de cadenas como tipo de dato
     -8 de agosto: Formateo de cadenas
     -9 de agosto: Ejemplos de formateo de cadenas
+    -10 de agosto: Ejemplos de operaciones numéricas
