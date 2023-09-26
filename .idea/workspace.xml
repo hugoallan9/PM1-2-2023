@@ -5,16 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1d134778-8e9a-4d9d-bf2d-7c6d8ff52627" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/EcuacionCuadratica.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Estructuras de datos.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/POO.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ciclos.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/funciones.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hanoi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projectEuler01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projectEuler03.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projectEuler03V2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/top10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Disco.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JuegoHanoi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Poste.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimulacionHanoiPOO.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -60,7 +54,51 @@
       <recent name="C:\Users\hagarcia\Documents\Proyectos\PM1-2-2023" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.hanoi">
+  <component name="RunManager" selected="Python.SimulacionHanoiPOO">
+    <configuration name="JuegoHanoi" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PM1-2-2023" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/JuegoHanoi.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="SimulacionHanoiPOO" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PM1-2-2023" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SimulacionHanoiPOO.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="hanoi" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PM1-2-2023" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -107,6 +145,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.SimulacionHanoiPOO" />
+        <item itemvalue="Python.JuegoHanoi" />
         <item itemvalue="Python.hanoi" />
         <item itemvalue="Python.projectEuler03V2" />
       </list>
@@ -134,7 +174,8 @@
       <workItem from="1694557117846" duration="3057000" />
       <workItem from="1695054671476" duration="4622000" />
       <workItem from="1695335221170" duration="1235000" />
-      <workItem from="1695420192645" duration="1025000" />
+      <workItem from="1695420192645" duration="3103000" />
+      <workItem from="1695764390614" duration="2527000" />
     </task>
     <servers />
   </component>
@@ -144,7 +185,9 @@
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/PM1_2_2023$figuras.coverage" NAME="figuras Coverage Results" MODIFIED="1691534580759" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PM1_2_2023$projectEuler03V2.coverage" NAME="projectEuler03V2 Coverage Results" MODIFIED="1693262742912" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/PM1_2_2023$hanoi.coverage" NAME="hanoi Coverage Results" MODIFIED="1695420986668" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PM1_2_2023$SimulacionHanoiPOO.coverage" NAME="SimulacionHanoiPOO Coverage Results" MODIFIED="1695768648815" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PM1_2_2023$hanoi.coverage" NAME="hanoi Coverage Results" MODIFIED="1695766838686" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PM1_2_2023$JuegoHanoi.coverage" NAME="JuegoHanoi Coverage Results" MODIFIED="1695767232507" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PM1_2_2023$EcuacionCuadratica.coverage" NAME="EcuacionCuadratica Coverage Results" MODIFIED="1692053109330" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PM1_2_2023$projectEuler01.coverage" NAME="projectEuler01 Coverage Results" MODIFIED="1692744508503" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PM1_2_2023$projectEuler03.coverage" NAME="projectEuler03 Coverage Results" MODIFIED="1692916761651" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
