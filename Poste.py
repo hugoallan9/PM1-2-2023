@@ -40,6 +40,11 @@ class Poste:
             self.discos.remove(disco)
             return disco
 
-    def pintaPoste(self, espacioInicial = 0):
-        for disco in self.discos:
-            print("{disco:>{espacio}}".format(disco = disco.getRadio(), espacio = espacioInicial))
+    def pintaPoste(self, numeroDiscos):
+        discoCadena = ""
+        for disco in reversed(self.discos):
+            discoCadena += str(disco.getRadio())
+        discoCadena += self.nombre
+        if len(discoCadena) < numeroDiscos +2:
+            discoCadena = "*"*(numeroDiscos+1-len(discoCadena)) + discoCadena
+        return discoCadena

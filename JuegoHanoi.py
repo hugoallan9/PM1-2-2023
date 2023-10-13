@@ -24,3 +24,4 @@ print("El disco 1 está en el poste", disco1.poste)
 #Imprimir todos los discos que están en el poste 1
 for disco in posteA.discos:
     print(disco.getRadio())
+
